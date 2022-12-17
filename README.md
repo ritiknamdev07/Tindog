@@ -1,2 +1,1 @@
-# Tindog
-My first project with HTML and CSS.
+TinDog Starting Files
